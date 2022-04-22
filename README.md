@@ -7,7 +7,7 @@ Por isso, para rodar o projeto, estando dentro da pasta api e já com o json-ser
 
 `json-server --watch api.json`
 
-Em um terminal separado (é importante que o json-server continue rodadando) e agora estando dentro da pasta cursos-router, precisamos utilizar os comandos
+Em um terminal separado (é importante que o json-server continue rodadando) e agora estando dentro da pasta cursos-router, precisamos utilizar os comandos:
 
 `npm install`
 
